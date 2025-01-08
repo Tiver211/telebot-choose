@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="telebot_choose",  # Имя пакета на PyPI
+    name="telebot_pagination",  # Имя пакета на PyPI
     version="0.1.0",    # Версия
     author="tiver211",
     author_email="tiver@tiver211.ru",

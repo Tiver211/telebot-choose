@@ -1,0 +1,1 @@
+from telebot_pagination.main import Chooser
